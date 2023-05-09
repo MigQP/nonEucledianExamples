@@ -4,5 +4,5 @@
 Test level of non-euclidean principles
 
 <p align="center">
-  ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTY5ZDYxODJhMjE4YzVjN2Q0MzAzMzAzNDMyOTZkZGNlNTg4OTE5MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2bDLApLCixrychuVte/giphy.gif)
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 </p>
